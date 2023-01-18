@@ -42,3 +42,17 @@ Hello World!
 </p>
 </details>
 
+<details><summary>Traduzcan la siguiente frase a clave morse:</summary>
+<p>
+
+```
+-.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...
+```
+![image](https://user-images.githubusercontent.com/84196494/213088616-58d61ffe-aa82-4406-9cc6-39463677bca2.png)
+
+
+</p>
+</details>
+
+
+
