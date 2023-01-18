@@ -23,3 +23,22 @@ Hello World!
 
 </p>
 </details>
+
+<details><summary>¿Cómo pide auxilio una vaca paranoica?</summary>
+<p>
+
+```
+ ______
+< help >
+ ------
+        \   ^__^
+         \  (@@)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+![image](https://user-images.githubusercontent.com/84196494/213085785-ab48fef8-6ab1-41ae-8627-6d3d35f4d9f9.png)
+
+</p>
+</details>
+
