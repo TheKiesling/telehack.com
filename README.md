@@ -12,3 +12,14 @@ On a table is a nasty-looking knife.
 
 </p>
 </details>
+
+<details><summary>¿Cuál es el output de éste programa de Brainf*ck?</summary>
+<p>
+
+```
+Hello World!
+```
+![image](https://user-images.githubusercontent.com/84196494/213076930-bb3ba652-3dd0-447c-b961-155327b13895.png)
+
+</p>
+</details>
