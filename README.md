@@ -54,5 +54,21 @@ Hello World!
 </p>
 </details>
 
+<details><summary>En star wars (ascii) ¿qué caracter se usa para formar el pelo de Leia?</summary>
+<p>
+
+```
+ Los caracteres ",", "=" y "@":
+ 
+ ,===
+ @o o@
+```
+![image](https://user-images.githubusercontent.com/84196494/213089106-de250abd-dd4a-41ed-95a4-95afc76eafff.png)
+
+</p>
+</details>
+
+
+
 
 
